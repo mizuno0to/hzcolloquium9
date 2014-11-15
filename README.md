@@ -1,7 +1,3 @@
-# HZ Colloquium 9 @mizuno0to
+# HZ Colloquium 9 のためのリポジトリ
 
-## なにはなそっかー
-
-## git add したもんどうけすの
-
-## aaaa
+Cloud9について話す予定
